@@ -1,6 +1,6 @@
 {
   "name": "backoff-func",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Eventually call a function based on an exponential backoff",
   "main": "lib/backoff.js",
   "scripts": {
@@ -13,6 +13,10 @@
   "author": {
     "name": "Samuel Fortier-Galarneau",
     "email": "samuel.galarneau@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/samuelg/node-backoff-func"
   },
   "license": "MIT",
   "devDependencies": {
