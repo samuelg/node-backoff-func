@@ -1,6 +1,6 @@
 {
   "name": "backoff-func",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Eventually call a function based on an exponential backoff",
   "main": "lib/backoff.js",
   "scripts": {
